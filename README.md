@@ -15,7 +15,7 @@
   <img src="imgs/teaser.png" width="550" />
 </p>
 
-This is the official PyTorch implementation of [LatticeNet: Fast Point Cloud Segmentation Using Permutohedral Lattices](http://www.ais.uni-bonn.de/videos/RSS_2020_Rosu/) 
+This is the a **fork** of the official PyTorch implementation of [LatticeNet: Fast Point Cloud Segmentation Using Permutohedral Lattices](http://www.ais.uni-bonn.de/videos/RSS_2020_Rosu/) 
 
 LatticeNet can process raw point clouds for semantic segmentation (or any other per-point prediction task). The implementation is written in CUDA and PyTorch. There is no CPU implementation yet.
 
